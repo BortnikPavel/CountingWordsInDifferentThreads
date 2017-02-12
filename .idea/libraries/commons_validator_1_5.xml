@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-validator-1.5">
+    <CLASSES>
+      <root url="file://E:/java/commons-validator-1.5.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://E:/java/commons-validator-1.5.1/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://E:/java/commons-validator-1.5.1" />
+    </SOURCES>
+    <jarDirectory url="file://E:/java/commons-validator-1.5.1" recursive="false" />
+    <jarDirectory url="file://E:/java/commons-validator-1.5.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
